@@ -1457,7 +1457,7 @@ def spielstand(board):
 
 print('Willkommen zu O T H E L L O by Harald Wörl (2020)')
 print()
-print('Wollen Sie mit X (schwarz) oder mit O (weiß) spielen ?')
+print('Wollen Sie mit X oder mit O spielen ?')
 print('X beginnt')
 spieler = input()
 if spieler == 'X':
