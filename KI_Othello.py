@@ -1,5 +1,4 @@
 # Datenquelle: https://www.statworx.com/de/blog/einfuehrung-in-reinforcement-learning-wenn-maschinen-wie-menschen-lernen/
-# dieses Spiel wurde 2020 programmiert
 
 import numpy as np
 
